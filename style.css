@@ -76,9 +76,11 @@
   }
 
 .footer {
-  position:absolute;
-  bottom: 0;
-  left:35%
+     position:fixed;
+     left:0px;
+     bottom:0px;
+     height:30px;
+     width:100%;
 }
 
 }
@@ -113,9 +115,5 @@
     margin:10px;
     }
 
-    .footer {
-      position:absolute;
-      bottom: 0;
-      left:25%;
-    }
+   
 }
